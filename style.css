@@ -1,0 +1,35 @@
+body {
+	margin-bottom: 20px;
+	margin-left: 50px;
+  z-index: 3;
+}
+
+tr, td, tbody, thead, th {
+  border: 2px solid black !important;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.checkBox {
+	border: 1px solid black;
+}
+
+table {
+	border-top: 1px solid black;
+}
+ #time24 {
+ 	height: 40px;
+ }
+
+ h1 {
+ 	margin-bottom: 20px;
+ }
+
+ img {
+  z-index: 1;
+  opacity: 0.3; 
+  height: 100px;
+  width: 150px;
+}
